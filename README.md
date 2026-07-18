@@ -1,4 +1,7 @@
-## git clone
+## clone
+https://github.com/lehibonafe/python-fastapi.git
+
+## RUN
 cd python-fastapi
 uvicorn main:app --reload
 
